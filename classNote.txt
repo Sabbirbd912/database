@@ -1,0 +1,15 @@
+DATA-BASE CONNECTION
+
+For table:
+
+tasks table;
+id - primary key autoincrement
+title- varchar(255)
+status - BOOLEAN
+duedate - DATE
+
+
+
+
+
+####PHP LOCALHOST: php -S localhost:8000
