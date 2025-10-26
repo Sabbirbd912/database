@@ -1,0 +1,15 @@
+1. Tools - xammp, mysql extension in vscode, bekeeper, 
+code runner, live Server, PHP-DEVSENSE, 
+
+2. Database Relationship Sign
+- Circle->Zero Relationship
+-Perpendicular line -> One Relationship
+-Cross Foot -> Many Relationship
+3. Relationship Sign inside ERD
+4. Database Table Sequence [USER->CATEGORIES->PRODUCT->CUSTOMER->INVOICE->INVOICE_PRODUCT]
+5.Understanding Relational Data
+    --Primary Key(ছেলে) & Foreign Key(মেয়ে) should have Equivalent
+    --id(Primary Key পাত্র ) & user_id(Foreign Key পাত্রী)
+    --পাত্র-আকাশ, পাত্রী-তাসমিন এবং পাত্রের বাড়ী সিরাজগঞ্জ
+    --তাসমিনের বিয়ে হবে সিরাজগঞ্জের  আকাশের সাথে
+    --[Categoris table (user_id)Forein Key] Reference [ users table (id) Primary key]
