@@ -13,3 +13,5 @@ code runner, live Server, PHP-DEVSENSE,
     --পাত্র-আকাশ, পাত্রী-তাসমিন এবং পাত্রের বাড়ী সিরাজগঞ্জ
     --তাসমিনের বিয়ে হবে সিরাজগঞ্জের  আকাশের সাথে
     --[Categoris table (user_id)Forein Key] Reference [ users table (id) Primary key]
+6. Advance Tools for Database:
+    -- DBForge, Oracle SQL Developer, DataGrip
